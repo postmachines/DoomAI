@@ -36,3 +36,6 @@ Shows how to run deterministic episodes by setting the seed. After setting the s
 
 ###[spectator.py](https://github.com/Marqt/ViZDoom/blob/master/examples/python/spectator.py)
 Shows how to use the *SPECTATOR* mode in which YOU play Doom and AI is the spectator (intended for apprenticeship learning).
+
+###[paramsstater.py]()
+Run dqn on some weights 
