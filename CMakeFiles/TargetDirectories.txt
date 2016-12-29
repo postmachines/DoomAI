@@ -1,0 +1,16 @@
+/root/Документы/NN/ViZDoom-master/src/vizdoom/gdtoa/CMakeFiles/arithchk.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/dumb/CMakeFiles/dumb.dir
+/root/Документы/NN/ViZDoom-master/CMakeFiles/freedoom2.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/gdtoa/CMakeFiles/gdtoa.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/game-music-emu/gme/CMakeFiles/gme.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/tools/lemon/CMakeFiles/lemon.dir
+/root/Документы/NN/ViZDoom-master/CMakeFiles/libvizdoom_python.dir
+/root/Документы/NN/ViZDoom-master/CMakeFiles/libvizdoom_shared.dir
+/root/Документы/NN/ViZDoom-master/CMakeFiles/libvizdoom_static.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/lzma/CMakeFiles/lzma.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/wadsrc/CMakeFiles/pk3.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/gdtoa/CMakeFiles/qnan.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/tools/re2c/CMakeFiles/re2c.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/tools/updaterevision/CMakeFiles/updaterevision.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/src/CMakeFiles/vizdoom.dir
+/root/Документы/NN/ViZDoom-master/src/vizdoom/tools/zipdir/CMakeFiles/zipdir.dir

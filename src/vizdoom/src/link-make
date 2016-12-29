@@ -1,0 +1,1 @@
+if [ ! -e /root/Документы/NN/ViZDoom-master/src/vizdoom/../../bin/vizdoom ]; then ln -sf /root/Документы/NN/ViZDoom-master/src/vizdoom/src/vizdoom /root/Документы/NN/ViZDoom-master/src/vizdoom/../../bin/vizdoom; fi

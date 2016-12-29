@@ -1,0 +1,1 @@
+/usr/bin/cc    -O3 -DNDEBUG       CMakeFiles/qnan.dir/qnan.o  -o qnan -rdynamic 
