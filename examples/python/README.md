@@ -39,3 +39,6 @@ Shows how to use the *SPECTATOR* mode in which YOU play Doom and AI is the spect
 
 ###[paramsstater.py]()
 Run dqn on some weights 
+
+###[Healthdeeplearning.py]()
+Code with self preservaton Health-learning for health_gathering task
