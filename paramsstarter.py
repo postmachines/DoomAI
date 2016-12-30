@@ -35,7 +35,7 @@ else:
 learning_rate = 0.0001
 discount_factor = 0.33
 #discount_factor = 0.99
-epochs = 5
+epochs = 3
 learning_steps_per_epoch = 2000 #2000
 replay_memory_size = 10000
 
@@ -138,7 +138,7 @@ actions = [list(a) for a in it.product([0, 1], repeat=n)]
 net, learn, get_q_values, get_best_action = create_network(len(actions))
 
 
-params = pickle.load(open('../../examples/python/weightsdumps/weightsDay57DDM6.dump', "r"))
+params = pickle.load(open('../../examples/python/weightsdumps/Healtgathering3epochs.dump', "r"))
 set_all_param_values(net, params)
 
 
