@@ -1,2 +1,0 @@
-/usr/bin/ar cr bin/libvizdoom.a  CMakeFiles/libvizdoom_static.dir/src/lib/ViZDoomExceptions.cpp.o CMakeFiles/libvizdoom_static.dir/src/lib/ViZDoomController.cpp.o CMakeFiles/libvizdoom_static.dir/src/lib/ViZDoomGame.cpp.o CMakeFiles/libvizdoom_static.dir/src/lib/ViZDoomUtilities.cpp.o
-/usr/bin/ranlib bin/libvizdoom.a
